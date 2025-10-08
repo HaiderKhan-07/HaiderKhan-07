@@ -16,9 +16,9 @@ Currently, I’m expanding my skills in software development and exploring creat
 
 ## 📌 Featured Projects  
 🔹 [**Portfolio Website**](https://HaiderKhan-07.github.io/Portfolio/) – A personal portfolio showcasing my projects, skills, and achievements.  
-🔹 [**SpaceShooter Game**](https://github.com/HaiderKhan777/Python-Projects/tree/main/SpaceShip%20Shooter) – A 2D arcade-style shooting game built with Python & Pygame.  
-🔹 [**Car Rental System (DSA)**](https://github.com/HaiderKhan777/Car-Rental-system-Dsa) – Console-based system built with data structures.  
-🔹 [**Snake Game (C/C++)**](https://github.com/HaiderKhan777/SnakeGame-C-) – Classic Snake game made in C/C++.  
+🔹 [**SpaceShooter Game**](https://github.com/HaiderKhan-07/Python-Projects/tree/main/SpaceShip%20Shooter) – A 2D arcade-style shooting game built with Python & Pygame.  
+🔹 [**Car Rental System (DSA)**](https://github.com/HaiderKhan-07/Car-Rental-system-Dsa) – Console-based system built with data structures.  
+🔹 [**Snake Game (C/C++)**](https://github.com/HaiderKhan-07/SnakeGame-C-) – Classic Snake game made in C/C++.  
 
 ---
 
