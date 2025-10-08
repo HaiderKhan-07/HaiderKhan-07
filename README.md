@@ -23,13 +23,13 @@ Currently, I’m expanding my skills in software development and exploring creat
 ---
 
 ## 📊 GitHub Stats  
-![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiderKhan777&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderKhan777&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=HaiderKhan777&theme=radical)](https://git.io/streak-stats)  
+![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiderKhan-07&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderKhan-07&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=HaiderKhan-07&theme=radical)](https://git.io/streak-stats)  
 
 ---
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haider-khan-2a1ab5337/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaiderKhan777)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaiderKhan-07)  
 
